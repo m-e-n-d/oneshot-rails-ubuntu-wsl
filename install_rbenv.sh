@@ -20,16 +20,4 @@ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
 
 source ~/.bash_profile
 
-# Ruby 2.6.3のインストール
-echo "installing Ruby:2.6.3 ......"
-
-rbenv install 2.6.3
-
-rbenv global 2.6.3
-
-# Rails 5.2.1のインストール
-echo "isntalling Rails 5.2.1 ......."
-
-gem install rails -v '5.2.1'
-
 echo "DONE."
