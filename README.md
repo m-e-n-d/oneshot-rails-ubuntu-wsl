@@ -1,4 +1,4 @@
-# oneshot-rails-ubuntu-wsl
+# oneshot-rbenv-ubuntu-wsl
 WSL上のubuntuでrbenvまでを一発でインストールするスクリプト
 rails 5.2.1動作までに基本的に必要なパッケージもすべてインストールする
 
